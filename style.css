@@ -18,9 +18,13 @@
 }
 .input{
     margin-bottom: 20px;
-    padding: 1rem;
+    
 }
 #number{
     font-size: 20px;
+    padding: 1rem;
     
+}
+#textarea{
+    padding: 5rem;
 }
