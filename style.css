@@ -1,6 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+
+}
+
 .container{
     display: flex;
     justify-content: center;
     align-items: center;
     
+}
+#number{
+    font-size: 20px;
 }
